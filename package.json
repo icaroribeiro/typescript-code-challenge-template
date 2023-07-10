@@ -1,0 +1,16 @@
+{
+  "name": "typescript-code-challenge-template",
+  "version": "1.0.0",
+  "description": "Be very welcome to my solution to X's code challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.4.1"
+  }
+}
